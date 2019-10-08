@@ -1,0 +1,19 @@
+{
+  "name": "advanced-css_sass",
+  "version": "1.0.0",
+  "description": "Advanced CSS and Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dayversonbsb/advanced-css_sass.git"
+  },
+  "author": "Dayverson Teixeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dayversonbsb/advanced-css_sass/issues"
+  },
+  "homepage": "https://github.com/dayversonbsb/advanced-css_sass#readme"
+}
