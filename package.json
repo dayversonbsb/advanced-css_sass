@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/dayversonbsb/advanced-css_sass.git"
   },
-  "author": "Dayverson Teixeira",
+  "author": "Dayverson Lima Teixeira",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dayversonbsb/advanced-css_sass/issues"
   },
-  "homepage": "https://github.com/dayversonbsb/advanced-css_sass#readme"
+  "homepage": "https://github.com/dayversonbsb/advanced-css_sass#readme",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
 }
